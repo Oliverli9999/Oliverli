@@ -8,4 +8,7 @@ dependencies = [
     "fastapi[standard]>=0.117.1",
     "jupyter>=1.1.1",
     "pydantic>=2.11.9",
+    "python-dotenv>=1.1.1",
+    "spacy>=3.8.7",
+    "uvicorn[standard]>=0.37.0",
 ]
