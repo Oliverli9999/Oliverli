@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Docker
+*.pid
+*.sock
+
+# Editors/IDEs
+.vscode/
+.idea/
+.env
+
